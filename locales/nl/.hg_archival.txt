@@ -1,0 +1,12 @@
+repo: dc645667577e552595912ecee3ce7fbbfda9e0b9
+node: 6e315be46c3c0910a48823584e13dc748ad5c86d
+branch: default
+latesttag: FENNEC_14_0b3_BUILD1
+latesttag: FENNEC_14_0b3_BUILD2
+latesttag: FENNEC_14_0b3_RELEASE
+latesttag: FENNEC_14_0b4_BUILD1
+latesttag: FENNEC_14_0b4_RELEASE
+latesttag: FENNEC_14_0b5_BUILD1
+latesttag: FENNEC_14_0b5_RELEASE
+latesttagdistance: 1810
+changessincelatesttag: 2114
