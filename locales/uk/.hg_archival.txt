@@ -1,0 +1,17 @@
+repo: 17e10d73498e588e8364e1689166bd9862e03403
+node: 4e698a16a0cd6c410b9f6357f885392aa18c7d6f
+branch: default
+latesttag: FENNEC_14_0b1_BUILD2
+latesttag: FENNEC_14_0b1_BUILD3
+latesttag: FENNEC_14_0b1_RELEASE
+latesttag: FENNEC_14_0b2_BUILD1
+latesttag: FENNEC_14_0b2_RELEASE
+latesttag: FENNEC_14_0b3_BUILD1
+latesttag: FENNEC_14_0b3_BUILD2
+latesttag: FENNEC_14_0b3_RELEASE
+latesttag: FENNEC_14_0b4_BUILD1
+latesttag: FENNEC_14_0b4_RELEASE
+latesttag: FENNEC_14_0b5_BUILD1
+latesttag: FENNEC_14_0b5_RELEASE
+latesttagdistance: 934
+changessincelatesttag: 1108
