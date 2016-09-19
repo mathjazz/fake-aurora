@@ -2,51 +2,64 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  updateWizard.title              "Software-Update">
+<!ENTITY  updateWizard.title              "&brandShortName; Update">
 
-<!ENTITY  offline.title                   "&brandShortName; ist offline">
-<!ENTITY  offline.description             "&brandShortName; muss online gehen, um auf verfügbare Updates Ihrer Add-ons zu überprüfen, die kompatibel mit dieser Version sind">
-<!ENTITY  offline.toggleOffline.label     "Jetzt online gehen">
-<!ENTITY  offline.toggleOffline.accesskey "J">
+<!ENTITY  offline.title                   "&brandShortName; is working offline">
+<!ENTITY  offline.description             "&brandShortName; needs to go online in order to see if updates
+                                           are available for your add-ons to make them compatible with this
+                                           version.">
+<!ENTITY  offline.toggleOffline.label     "Go online now.">
+<!ENTITY  offline.toggleOffline.accesskey "G">
 
-<!ENTITY  mismatch.win.title              "Inkompatible Add-ons">
-<!ENTITY  mismatch.top.label              "Folgende Add-ons sind nicht kompatibel mit dieser Version von &brandShortName; und wurden deaktiviert:">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; kann überprüfen, ob kompatible Versionen dieser Add-ons verfügbar sind.">
+<!ENTITY  mismatch.win.title              "Incompatible Add-ons">
+<!ENTITY  mismatch.top.label              "The following add-ons are not compatible with this version of
+                                           &brandShortName; and have been disabled:">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; can check if there are compatible versions
+                                           of these add-ons available.">
 
-<!ENTITY  checking.wizard.title           "Auf kompatible Add-ons überprüfen">
-<!ENTITY  checking.top.label              "Es wird überprüft, ob Updates für inkompatible Add-ons verfügbar sind…">
-<!ENTITY  checking.status                 "Dies kann ein paar Minuten dauern…">
+<!ENTITY  checking.wizard.title           "Checking for Compatible Add-ons">
+<!ENTITY  checking.top.label              "Checking your incompatible add-ons for updates…">
+<!ENTITY  checking.status                 "This may take a few minutes…">
 
-<!ENTITY  found.wizard.title               "Kompatible Updates für Add-ons sind verfügbar">
-<!ENTITY  found.top.label                 "Wählen Sie die Updates aus, die installiert werden sollen:">
-<!ENTITY  found.disabledXPinstall.label   "Diese Updates können nicht installiert werden, da die Software-Installation momentan deaktiviert ist. Sie können diese Einstellung unten ändern.">
-<!ENTITY  found.enableXPInstall.label     "Websites das Installieren von Add-ons erlauben">
-<!ENTITY  found.enableXPInstall.accesskey "W">
+<!ENTITY  found.wizard.title               "Found Compatible Add-ons">
+<!ENTITY  found.top.label                 "Select the add-ons you would like to install:">
+<!ENTITY  found.disabledXPinstall.label   "These updates can’t be installed because software installation is currently
+                                           disabled. You can change this setting below.">
+<!ENTITY  found.enableXPInstall.label     "Allow websites to install software">
+<!ENTITY  found.enableXPInstall.accesskey "A">
 
-<!ENTITY  installing.wizard.title         "Updates werden installiert">
-<!ENTITY  installing.top.label            "Updates werden nun heruntergeladen und installiert…">
+<!ENTITY  installing.wizard.title         "Installing Compatible Add-ons">
+<!ENTITY  installing.top.label            "Downloading and installing updates to your add-ons…">
 
-<!ENTITY  noupdates.wizard.title          "Keine kompatiblen Updates gefunden">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; konnte keine verfügbaren Updates für inkompatible Add-ons finden.">
-<!ENTITY  noupdates.error.desc            "Beim Überprüfen auf Updates sind Probleme aufgetreten.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; wird regelmäßig auf Updates überprüfen und Sie informieren, sobald kompatible Versionen der Add-ons verfügbar sind.">
+<!ENTITY  noupdates.wizard.title          "No Compatible Add-ons Found">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; was unable to find updates to your
+                                           incompatible add-ons.">
+<!ENTITY  noupdates.error.desc            "Some problems were encountered when trying to find updates.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; will check periodically and inform you
+                                           when compatible updates for these add-ons are found.">
 
-<!ENTITY  finished.wizard.title           "Kompatible Add-ons wurden installiert">
-<!ENTITY  finished.top.label              "&brandShortName; hat die verfügbaren Updates installiert. Sie sollten &brandShortName; jetzt bitte neu starten, um alle Updates zu aktivieren.">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; kann regelmäßig auf Updates überprüfen und Sie informieren, sobald Updates für Add-ons verfügbar sind.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; wird regelmäßig auf Updates überprüfen und Sie informieren, sobald Updates für Add-ons verfügbar sind.">
+<!ENTITY  finished.wizard.title           "Compatible Add-ons Installed">
+<!ENTITY  finished.top.label              "&brandShortName; has installed the updates to your add-ons.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; can check periodically and inform you
+                                           when updates for add-ons are found.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; will check periodically and inform you
+                                           when updates for add-ons are found.">
 
-<!ENTITY  adminDisabled.wizard.title      "Es kann nicht auf Updates überprüft werden">
-<!ENTITY  adminDisabled.warning.label     "Die inkompatiblen Add-ons können nicht aktualisiert werden, da die Software-Installation in &brandShortName; deaktiviert wurde. Bitte nehmen Sie für Hilfe Kontakt mit Ihrem System-Administrator auf.">
+<!ENTITY  adminDisabled.wizard.title      "Unable to Check for Updates">
+<!ENTITY  adminDisabled.warning.label     "It is not possible to check for updates to incompatible add-ons
+                                           because software installation for &brandShortName; has been disabled.
+                                           Please contact your System Administrator for assistance.">
 
-<!ENTITY  versioninfo.wizard.title        "Überprüfe die Kompatibilität der Add-ons">
-<!ENTITY  versioninfo.top.label           "Überprüfe die installierten Add-ons auf Kompatibilität mit dieser &brandShortName;-Version.">
-<!ENTITY  versioninfo.waiting             "Dies kann ein paar Minuten dauern…">
+<!ENTITY  versioninfo.wizard.title        "Checking Compatibility of Add-ons">
+<!ENTITY  versioninfo.top.label           "Checking your add-ons for compatibility with this
+                                           version of &brandShortName;.">
+<!ENTITY  versioninfo.waiting             "This may take a few minutes…">
 
-<!ENTITY  installerrors.wizard.title      "Probleme beim Installieren der Updates">
-<!ENTITY  installerrors.intro.label       "&brandShortName; hat Probleme während des Updates festgestellt. Daher konnten nicht alle Add-ons aktualisiert werden.">
+<!ENTITY  installerrors.wizard.title      "Problems Installing Updates">
+<!ENTITY  installerrors.intro.label       "&brandShortName; encountered problems when updating
+                                           some of your add-ons.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "Klicken Sie auf Fertigstellen, um &brandShortName; zu starten.">
-<!ENTITY  clickFinish.labelMac            "Klicken Sie auf Fertigstellen, um &brandShortName; zu starten.">
-<!ENTITY  enableChecking.label            "&brandShortName; erlauben, auf Updates zu überprüfen.">
+<!ENTITY  clickFinish.label               "Click Finish to continue starting &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Click Done to continue starting &brandShortName;.">
+<!ENTITY  enableChecking.label            "Allow &brandShortName; to check for updates.">

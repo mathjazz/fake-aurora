@@ -1,25 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY editBookmarkOverlay.name.label                      "Name:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
-<!ENTITY editBookmarkOverlay.location.label                  "Adresse:">
-<!ENTITY editBookmarkOverlay.location.accesskey              "A">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Feed-Adresse:">
+<!ENTITY editBookmarkOverlay.location.label                  "Location:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "L">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Feed Location:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Website-Adresse:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "W">
-<!ENTITY editBookmarkOverlay.folder.label                    "Ordner:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Alle Lesezeichenordner anzeigen">
-<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ausblenden">
-<!ENTITY editBookmarkOverlay.tags.label                      "Schlagwörter:">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "S">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Schlagwörter mit Kommata trennen">
-<!ENTITY editBookmarkOverlay.description.label               "Beschreibung:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "B">
-<!ENTITY editBookmarkOverlay.keyword.label                   "Schlüsselwort:">
-<!ENTITY editBookmarkOverlay.keyword.accesskey               "h">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Alle Schlagwörter anzeigen">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Dieses Lesezeichen in der Sidebar laden">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "D">
-<!ENTITY editBookmarkOverlay.choose.label                    "Wählen…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "Neuer Ordner">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "O">
-
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Site Location:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
+<!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Show all the bookmarks folders">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Hide">
+<!ENTITY editBookmarkOverlay.tags.label                      "Tags:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separate tags with commas">
+<!ENTITY editBookmarkOverlay.description.label               "Description:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "D">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Keyword:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Show all tags">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Load this bookmark in the sidebar">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.choose.label                    "Choose…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "New Folder">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

@@ -2,18 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "Statt neuem Fenster neuen Tab öffnen">
-<!ENTITY newWindowsAsTabs.accesskey   "F">
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab cycles through tabs in recently used order">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY warnCloseMultipleTabs.label  "Warnen, wenn mehrere Tabs geschlossen werden">
-<!ENTITY warnCloseMultipleTabs.accesskey  "W">
+<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.accesskey   "w">
 
-<!ENTITY warnOpenManyTabs.label       "Warnen, wenn das gleichzeitige Öffnen mehrerer Tabs &brandShortName; verlangsamen könnte">
-<!ENTITY warnOpenManyTabs.accesskey   "a">
+<!ENTITY warnCloseMultipleTabs.label  "Warn me when closing multiple tabs">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY switchToNewTabs.label        "Tabs im Vordergrund öffnen">
-<!ENTITY switchToNewTabs.accesskey    "s">
+<!ENTITY warnOpenManyTabs.label       "Warn me when opening multiple tabs might slow down &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY showTabsInTaskbar.label          "Tab-Vorschauen in der Windows-Taskleiste anzeigen">
+<!ENTITY switchToNewTabs.label        "When I open a link in a new tab, switch to it immediately">
+<!ENTITY switchToNewTabs.accesskey    "h">
+
+<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
 <!ENTITY tabsGroup.label          "Tabs">

@@ -1,8 +1,7 @@
-google
-yahoo-de
+amazondotcom
 bing
-amazondotcom-de
-eBay-de
-wikipedia-de
-leo_ende_de
-
+google
+twitter
+wikipedia
+yahoo
+yahoo-en-CA:hidden

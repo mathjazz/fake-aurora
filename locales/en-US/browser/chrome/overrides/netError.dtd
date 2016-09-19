@@ -5,203 +5,206 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Seiten-Ladefehler">
-<!ENTITY retry.label "Nochmals versuchen">
-<!ENTITY returnToPreviousPage.label "Zurück">
-<!ENTITY advanced.label "Erweitert">
+<!ENTITY loadError.label "Problem loading page">
+<!ENTITY retry.label "Try Again">
+<!ENTITY returnToPreviousPage.label "Go Back">
+<!ENTITY advanced.label "Advanced">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Fehler: Verbindung fehlgeschlagen">
+<!ENTITY connectionFailure.title "Unable to connect">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Fehler: Port aus Sicherheitsgründen blockiert">
+<!ENTITY deniedPortAccess.title "This address is restricted">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Fehler: Server nicht gefunden">
+<!ENTITY dnsNotFound.title "Server not found">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Bitte überprüfen Sie die Adresse auf Tippfehler, wie
-    <strong>ww</strong>.example.com statt
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
     <strong>www</strong>.example.com</li>
-  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die 
-	Netzwerk-/Internetverbindung.</li>
-  <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, stellen Sie bitte sicher,
-	dass &brandShortName; auf das Internet zugreifen darf.</li>
+  <li>If you are unable to load any pages, check your computer’s network
+    connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Fehler: Datei nicht gefunden">
+<!ENTITY fileNotFound.title "File not found">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Bitte überprüfen Sie die Adresse auf Rechtschreib-, Groß-/Kleinschreibungs- oder andere Fehler.</li>
-  <li>Bitte überprüfen Sie, ob die Adresse umbenannt, gelöscht oder verschoben wurde.</li>
+  <li>Check the file name for capitalization or other typing errors.</li>
+  <li>Check to see if the file was moved, renamed or deleted.</li>
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Zugriff auf die Datei wurde verweigert">
+<!ENTITY fileAccessDenied.title "Access to the file was denied">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Sie wurde möglicherweise entfernt, verschoben, oder Dateiberechtigungen könnten den Zugriff verhindern.</li>
+  <li>It may have been removed, moved, or file permissions may be preventing access.</li>
 </ul>
 ">
 
-<!ENTITY generic.title "Fehler: Anfrage konnte nicht ausgeführt werden">
+<!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; konnte die Seite aus unbekanntem Grund nicht laden.</p>
+<p>&brandShortName; can’t load this page for some reason.</p>
 ">
 
-<!ENTITY malformedURI.title "Fehler: Ungültige Adresse">
+<!ENTITY malformedURI.title "The address isn’t valid">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Web-Adressen sehen für gewöhnlich folgendermaßen aus:
+  <li>Web addresses are usually written like
     <strong>http://www.example.com/</strong></li>
-  <li>Bitte stellen Sie sicher, dass Sie nicht den umgekehrten,
-    sondern den einfachen Schrägstrich verwenden (<strong>/</strong>).</li>
+  <li>Make sure that you’re using forward slashes (i.e.
+    <strong>/</strong>).</li>
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "Fehler: Datenübertragung unterbrochen">
+<!ENTITY netInterrupt.title "The connection was interrupted">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Dokument erloschen">
-<!ENTITY notCached.longDesc "<p>Das angefragte Dokument ist nicht im Browser-Cache verfügbar.</p><ul><li>Als Sicherheitsmaßnahme fordert der Browser vertrauliche Dokumente nicht automatisch erneut an.</li><li>Klicken Sie auf &quot;Nochmals versuchen&quot;, um das Dokument erneut von der Website anzufordern.</li></ul>">
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;’s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
-<!ENTITY netOffline.title "Fehler: Offline-Modus">
+<!ENTITY netOffline.title "Offline mode">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Wählen Sie &quot;Nochmals versuchen&quot;, um in den Online-Modus zu wechseln und die Seite erneut zu laden.</li>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Content-Encoding-Fehler">
+<!ENTITY contentEncodingError.title "Content Encoding Error">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Kontaktieren Sie bitte den Inhaber der Website, um ihn über dieses Problem zu informieren.</li> 
+  <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Unsicherer Dateityp">
+<!ENTITY unsafeContentType.title "Unsafe File Type">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Bitte kontaktieren Sie die Webseitenbetreiber, um sie über dieses Problem zu informieren.</li>
+  <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
 
-<!ENTITY netReset.title "Fehler: Verbindung unterbrochen">
+<!ENTITY netReset.title "The connection was reset">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Fehler: Netzwerk-Zeitüberschreitung">
+<!ENTITY netTimeout.title "The connection has timed out">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Adresse nicht erkannt">
+<!ENTITY unknownProtocolFound.title "The address wasn’t understood">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Eventuell müssen Sie andere Software installieren, um diese Adresse aufrufen zu können.</li>
+  <li>You might need to install other software to open this address.</li>
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Fehler: Proxy-Server verweigert die Verbindung">
+<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Überprüfen Sie bitte, ob die Proxy-Einstellungen korrekt sind</li>
-  <li>Kontaktieren Sie bitte Ihren Netzwerk-Administrator, um sicherzustellen, dass der Proxy-Server 
-	funktioniert</li>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Contact your network administrator to make sure the proxy server is
+    working.</li>
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Fehler: Proxy-Server nicht gefunden">
+<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Überprüfen Sie bitte, ob die Proxy-Einstellungen korrekt sind.</li>
-  <li>Überprüfen Sie bitte, ob eine Netzwerk-/Internet-Verbindung besteht.</li>
-  <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, stellen Sie bitte sicher,
-	dass &brandShortName; auf das Internet zugreifen darf.</li>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your computer has a working network connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Fehler: Umleitungsfehler">
+<!ENTITY redirectLoop.title "The page isn’t redirecting properly">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Dieses Problem kann manchmal auftreten, wenn Cookies deaktiviert oder abgelehnt 
-	werden.</li>
+  <li>This problem can sometimes be caused by disabling or refusing to accept
+    cookies.</li>
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Fehler: Unerwartete Antwort">
+<!ENTITY unknownSocketType.title "Unexpected response from server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Bitte stellen Sie sicher, dass auf Ihrem System der Personal-Security-Manager 
-	installiert ist.</li>
-  <li>Dies kann mit einer nicht-standardgemäßen Konfiguration des Servers zusammenhängen.</li>
-</ul> 
-">
-
-<!ENTITY nssFailure2.title "Fehler: Gesicherte Verbindung fehlgeschlagen">
-<!ENTITY nssFailure2.longDesc2 "
-<ul>
-  <li>Die Website kann nicht angezeigt werden, da die Authentizität der erhaltenen Daten nicht verifiziert werden konnte.</li>
-  <li>Kontaktieren Sie bitte den Inhaber der Website, um ihn über dieses Problem zu informieren.</li>
+  <li>Check to make sure your system has the Personal Security Manager
+    installed.</li>
+  <li>This might be due to a non-standard configuration on the server.</li>
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Diese Verbindung ist nicht sicher">
+<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY certerror.longpagetitle1 "Your connection is not secure">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Der Inhaber von <span class='hostname'/> hat die Website nicht richtig konfiguriert. &brandShortName; hat keine Verbindung mit dieser Website aufgebaut, um Ihre Informationen vor Diebstahl zu schützen.">
+<!ENTITY certerror.introPara "The owner of <span class='hostname'/> has configured their website improperly.  To protect your information from being stolen, &brandShortName; has not connected to this website.">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Die Website könnte vorübergehend nicht erreichbar sein, versuchen Sie es bitte 
-	später nochmals.</li>
-  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die 
-	Netzwerk-/Internetverbindung.</li>
-  <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, 
-	stellen Sie bitte sicher, dass &brandShortName; auf das Internet zugreifen darf.</li>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few
+    moments.</li>
+  <li>If you are unable to load any pages, check your computer’s network
+    connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Blockiert von der Inhaltsicherheitsrichtlinie (CSP)">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; hat diese Webseite daran gehindert, auf diese Weise geladen zu werden, weil die Webseite eine Inhaltsicherheitsrichtlinie (Content Security Policy) hat, die dies nicht erlaubt.</p>">
+<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Fehler: Beschädigte Inhalte">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Die Seite, die Sie anzusehen versuchen, kann nicht angezeigt werden, da ein Fehler in der Datenübertragung festgestellt wurde.</p><ul><li>Bitte kontaktieren Sie die Website-Betreiber, um sie über dieses Problem zu verständigen.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Ausnahme hinzufügen…">
+<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
 
-<!ENTITY errorReporting.automatic2 "Fehler an Mozilla melden, um beim Identifizieren und Blockieren böswilliger Websites zu helfen">
-<!ENTITY errorReporting.learnMore "Weitere Informationen…">
+<!ENTITY errorReporting.automatic2 "Report errors like this to help Mozilla identify and block malicious sites">
+<!ENTITY errorReporting.learnMore "Learn more…">
 
-<!ENTITY remoteXUL.title "Remote-XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Bitte informieren Sie den Website-Inhaber über dieses Problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Keine sichere Verbindung möglich">
+<!ENTITY sslv3Used.title "Unable to Connect Securely">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc2 "Weitere Informationen: SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Diese Verbindung ist nicht sicher">
+<!ENTITY weakCryptoUsed.title "Your connection is not secure">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Weitere Informationen: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Erweitert">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> verwendet Sicherheitstechnologie, welche veraltet und verwundbar ist. Ein Angreifer könnte leicht Informationen entschlüsseln, welche Sie für sicher hielten.">
-<!ENTITY weakCryptoAdvanced.override "(Nicht sicher) <span class='hostname'></span> mit veralteter Sicherheitstechnologie laden">
+<!ENTITY weakCryptoUsed.longDesc2 "Advanced info: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Advanced">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe.">
+<!ENTITY weakCryptoAdvanced.override "(Not secure) Try loading <span class='hostname'></span> using outdated security">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Es konnte mit <span id='wrongSystemTime_URL'/> keine gesicherte Verbindung aufgebaut werden, da Ihr Computer ein falsches Datum oder eine falsche Uhrzeit zu verwenden scheint.</p> <p>Auf Ihrem Computer ist es der <span id='wrongSystemTime_systemDate'/>, während es der <span id='wrongSystemTime_actualDate'/> sein sollte. Korrigieren Sie Datum und Uhrzeit auf Ihrem Computer auf die richtige Uhrzeit, um das Problem zu beheben.</p>">
+<!ENTITY certerror.wrongSystemTime "<p>A secure connection to <span id='wrongSystemTime_URL'/> isn’t possible because your clock appears to show the wrong time.</p> <p>Your computer thinks it is <span id='wrongSystemTime_systemDate'/>, when it should be <span id='wrongSystemTime_actualDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
 
-<!ENTITY certerror.pagetitle1  "Nicht gesicherte Verbindung">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Diese Website verwendet HTTP Strict Transport Security (HSTS), um mitzuteilen, dass &brandShortName; nur über gesicherte Verbindungen mit ihr kommunizieren soll. Daher ist es nicht möglich, eine Ausnahme für dieses Zertifikat anzulegen.">
-<!ENTITY certerror.copyToClipboard.label "In Zwischenablage kopieren">
+<!ENTITY certerror.pagetitle1  "Insecure Connection">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP
+Strict Transport Security (HSTS) to specify that &brandShortName; may only connect
+to it securely. As a result, it is not possible to add an exception for this
+certificate.">
+<!ENTITY certerror.copyToClipboard.label "Copy text to clipboard">
 
-<!ENTITY inadequateSecurityError.title "Diese Verbindung ist nicht sicher">
+<!ENTITY inadequateSecurityError.title "Your connection is not secure">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> verwendet Sicherheitstechnologie, welche veraltet und verwundbar ist. Ein Angreifer könnte leicht Informationen entschlüsseln, welche Sie für sicher hielten. Der Website-Administrator muss dieses Problem auf dem Server beheben, bevor Sie die Seite aufrufen können.</p><p>Fehlercode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY prefReset.longDesc "Dies könnte durch die Netzwerk-Sicherheitseinstellungen verursacht werden. Sollen die Standardeinstellungen wiederhergestellt werden?">
-<!ENTITY prefReset.label "Standardeinstellungen wiederherstellen">
+<!ENTITY prefReset.longDesc "It looks like your network security settings might be causing this. Do you want the default settings to be restored?">
+<!ENTITY prefReset.label "Restore default settings">

@@ -1,11 +1,15 @@
-<!ENTITY title           "Add-on installieren">
-<!ENTITY intro           "Ein anderes Programm auf Ihrem Computer möchte
-                          &brandShortName; durch folgendes Add-on modifizieren:">
-<!ENTITY warning         "Installieren Sie Add-ons nur von Autoren, denen Sie vertrauen.">
-<!ENTITY allow           "Diese Installation erlauben">
-<!ENTITY later           "Sie können jederzeit Ihre Entscheidung ändern, indem
-                          Sie die Add-ons-Verwaltung öffnen.">
-<!ENTITY continue        "Weiter">
-<!ENTITY restartMessage  "Sie müssen &brandShortName; neu starten, um die Installation dieses Add-ons fertigzustellen.">
-<!ENTITY restartButton   "&brandShortName; neu starten">
-<!ENTITY cancelButton    "Abbrechen">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY title           "Install Add-on">
+<!ENTITY intro           "Another program on your computer would like to modify
+                          &brandShortName; with the following add-on:">
+<!ENTITY warning         "Install add-ons only from authors whom you trust.">
+<!ENTITY allow           "Allow this installation">
+<!ENTITY later           "You can always change your mind at any time by going
+                          to the Add-ons Manager.">
+<!ENTITY continue        "Continue">
+<!ENTITY restartMessage  "You must restart &brandShortName; to finish installing this add-on.">
+<!ENTITY restartButton   "Restart &brandShortName;">
+<!ENTITY cancelButton    "Cancel">

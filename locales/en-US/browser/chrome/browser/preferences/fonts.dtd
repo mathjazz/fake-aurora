@@ -2,106 +2,106 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  fontsDialog.title                       "Schriftarten">
+<!ENTITY  fontsDialog.title                       "Fonts">
 
-<!ENTITY  language.label                          "Schriftarten für:">
-<!ENTITY  language.accesskey                      "S">
+<!ENTITY  language.label                          "Fonts for:">
+<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "Größe">
-<!ENTITY  sizeProportional.accesskey              "G">
-<!ENTITY  sizeMonospace.accesskey                 "r">
+<!ENTITY  size.label                              "Size:">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Proportional:">
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "e">
-<!ENTITY  sans-serif.label                        "Sans Serif:">
-<!ENTITY  sans-serif.accesskey                    "a">
-<!ENTITY  monospace.label                         "Feste Breite:">
-<!ENTITY  monospace.accesskey                     "F">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "Lateinisch">
-<!ENTITY  font.langGroup.japanese                 "Japanisch">
-<!ENTITY  font.langGroup.trad-chinese             "Chinesisch traditionell (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Chinesisch vereinfacht">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Chinesisch traditionell (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "Koreanisch">
-<!ENTITY  font.langGroup.cyrillic                 "Kyrillisch">
-<!ENTITY  font.langGroup.el                       "Griechisch">
-<!ENTITY  font.langGroup.other                    "Andere Schreibweisen">
-<!ENTITY  font.langGroup.thai                     "Thailändisch">
-<!ENTITY  font.langGroup.hebrew                   "Hebräisch">
-<!ENTITY  font.langGroup.arabic                   "Arabisch">
+<!ENTITY  font.langGroup.latin                    "Latin">
+<!ENTITY  font.langGroup.japanese                 "Japanese">
+<!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Korean">
+<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
+<!ENTITY  font.langGroup.el                       "Greek">
+<!ENTITY  font.langGroup.other                    "Other Writing Systems">
+<!ENTITY  font.langGroup.thai                     "Thai">
+<!ENTITY  font.langGroup.hebrew                   "Hebrew">
+<!ENTITY  font.langGroup.arabic                   "Arabic">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    "Tamilisch">
-<!ENTITY  font.langGroup.armenian                 "Armenisch">
-<!ENTITY  font.langGroup.bengali                  "Bengalisch">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Armenian">
+<!ENTITY  font.langGroup.bengali                  "Bengali">
 <!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
-<!ENTITY  font.langGroup.ethiopic                 "Äthiopisch">
-<!ENTITY  font.langGroup.georgian                 "Georgisch">
+<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
+<!ENTITY  font.langGroup.georgian                 "Georgian">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-<!ENTITY  font.langGroup.math                     "Mathematisch">
-<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.math                     "Mathematics">
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
-<!ENTITY  font.langGroup.sinhala                  "Singhalesisch">
-<!ENTITY  font.langGroup.tibetan                  "Tibetisch">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Mindestschriftgröße:">
-<!ENTITY minSize.accesskey                        "M">
-<!ENTITY minSize.none                             "Keine">
+<!ENTITY minSize.label                            "Minimum font size:">
+<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize.none                             "None">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Seiten das Verwenden von eigenen statt der oben gewählten Schriftarten erlauben">
-<!ENTITY  allowPagesToUse.accesskey               "d">
+<!ENTITY  allowPagesToUse.label                   "Allow pages to choose their own fonts, instead of my selections above">
+<!ENTITY  allowPagesToUse.accesskey               "A">
 
-<!ENTITY languages.customize.Fallback2.grouplabel "Textkodierung für veralteten Inhalt">
-<!ENTITY languages.customize.Fallback2.label      "Ersatz-Textkodierung:">
+<!ENTITY languages.customize.Fallback2.grouplabel "Text Encoding for Legacy Content">
+<!ENTITY languages.customize.Fallback2.label      "Fallback Text Encoding:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
-<!ENTITY languages.customize.Fallback2.desc       "Diese Zeichenkodierung wird für veraltete Inhalte verwendet, welche ihre Zeichenkodierung nicht angeben.">
+<!ENTITY languages.customize.Fallback2.desc       "This text encoding is used for legacy content that fails to declare its encoding.">
 
-<!ENTITY languages.customize.Fallback.auto        "Standard für derzeitige Sprache">
+<!ENTITY languages.customize.Fallback.auto        "Default for Current Locale">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.arabic      "Arabisch">
-<!ENTITY languages.customize.Fallback.baltic      "Baltisch">
-<!ENTITY languages.customize.Fallback.ceiso       "Mitteleuropäisch (ISO)">
-<!ENTITY languages.customize.Fallback.cewindows   "Mitteleuropäisch (Microsoft)">
+<!ENTITY languages.customize.Fallback.arabic      "Arabic">
+<!ENTITY languages.customize.Fallback.baltic      "Baltic">
+<!ENTITY languages.customize.Fallback.ceiso       "Central European, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "Central European, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "Chinesisch vereinfacht">
+<!ENTITY languages.customize.Fallback.simplified  "Chinese, Simplified">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "Chinesisch traditionell">
-<!ENTITY languages.customize.Fallback.cyrillic    "Kyrillisch">
+<!ENTITY languages.customize.Fallback.traditional "Chinese, Traditional">
+<!ENTITY languages.customize.Fallback.cyrillic    "Cyrillic">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "Griechisch">
+<!ENTITY languages.customize.Fallback.greek       "Greek">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "Hebräisch">
+<!ENTITY languages.customize.Fallback.hebrew      "Hebrew">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "Japanisch">
+<!ENTITY languages.customize.Fallback.japanese    "Japanese">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.korean      "Koreanisch">
+<!ENTITY languages.customize.Fallback.korean      "Korean">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.thai        "Thai">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "Türkisch">
+<!ENTITY languages.customize.Fallback.turkish     "Turkish">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.vietnamese  "Vietnamesisch">
-<!ENTITY languages.customize.Fallback.other       "Andere (einschließlich Westeuropäisch)">
+<!ENTITY languages.customize.Fallback.vietnamese  "Vietnamese">
+<!ENTITY languages.customize.Fallback.other       "Other (incl. Western European)">

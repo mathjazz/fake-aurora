@@ -1,17 +1,21 @@
-<!ENTITY lookInMenuList.label   "Suchen in:">
-<!ENTITY lookInMenuList.accesskey   "s">
-<!ENTITY textInput.label        "Dateiname:">
-<!ENTITY textInput.accesskey        "d">
-<!ENTITY filterMenuList.label   "Dateityp:">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY lookInMenuList.label   "Look in:">
+<!ENTITY lookInMenuList.accesskey   "L">
+<!ENTITY textInput.label        "File name:">
+<!ENTITY textInput.accesskey        "n">
+<!ENTITY filterMenuList.label   "Files of type:">
 <!ENTITY filterMenuList.accesskey   "t">
 <!ENTITY name.label             "Name">
-<!ENTITY size.label             "Größe">
-<!ENTITY lastModified.label     "Zuletzt geändert">
-<!ENTITY showHiddenFiles.label  "Versteckte Dateien und Ordner anzeigen">
-<!ENTITY showHiddenFiles.accesskey  "v">
+<!ENTITY size.label             "Size">
+<!ENTITY lastModified.label     "Last Modified">
+<!ENTITY showHiddenFiles.label  "Show hidden files and directories">
+<!ENTITY showHiddenFiles.accesskey  "S">
 
-<!ENTITY noPermissionError.label "Sie haben nicht die notwendigen Rechte, um diesen Ordner anzusehen.">
+<!ENTITY noPermissionError.label "You do not have the permissions necessary to view this directory.">
 
-<!ENTITY folderUp.tooltiptext   "Eine Ebene höher gehen">
-<!ENTITY folderHome.tooltiptext "Zum persönlichen Ordner gehen">
-<!ENTITY folderNew.tooltiptext  "Neuen Ordner erstellen">
+<!ENTITY folderUp.tooltiptext   "Go up a level">
+<!ENTITY folderHome.tooltiptext "Go to home">
+<!ENTITY folderNew.tooltiptext  "Create new directory">

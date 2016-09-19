@@ -3,47 +3,47 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  connectionsDialog.title       "Verbindungs-Einstellungen">
+<!ENTITY  connectionsDialog.title       "Connection Settings">
 <!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "45em">
+<!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "Proxies für den Zugriff auf das Internet konfigurieren">
-<!ENTITY  noProxyTypeRadio.label        "Kein Proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "e">
-<!ENTITY  systemTypeRadio.label         "Proxy-Einstellungen des Systems verwenden">
-<!ENTITY  systemTypeRadio.accesskey     "g">
-<!ENTITY  WPADTypeRadio.label           "Die Proxy-Einstellungen für dieses Netzwerk automatisch erkennen">
+<!ENTITY  proxyTitle.label              "Configure Proxies to Access the Internet">
+<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "Auto-detect proxy settings for this network">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "Manuelle Proxy-Konfiguration:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "Automatische Proxy-Konfigurations-URL:">
-<!ENTITY  autoTypeRadio.accesskey       "U">
-<!ENTITY  reload.label                  "Neu laden">
-<!ENTITY  reload.accesskey              "a">
-<!ENTITY  ftp.label                     "FTP-Proxy:">
-<!ENTITY  ftp.accesskey                 "x">
-<!ENTITY  http.label                    "HTTP-Proxy:">
-<!ENTITY  http.accesskey                "y">
-<!ENTITY  ssl.label                     "SSL-Proxy:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS-Host:">
+<!ENTITY  manualTypeRadio.label         "Manual proxy configuration:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "Automatic proxy configuration URL:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "Reload">
+<!ENTITY  reload.accesskey              "e">
+<!ENTITY  ftp.label                     "FTP Proxy:">
+<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  http.label                    "HTTP Proxy:">
+<!ENTITY  http.accesskey                "x">
+<!ENTITY  ssl.label                     "SSL Proxy:">
+<!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  socks.label                   "SOCKS Host:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label          "Externer DNS-Server">
-<!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  socksRemoteDNS.label2         "Proxy DNS when using SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "Port:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Kein Proxy für:">
+<!ENTITY  noproxy.label                 "No Proxy for:">
 <!ENTITY  noproxy.accesskey             "n">
-<!ENTITY  noproxyExplain.label          "Beispiel: .mozilla.org, .net.de, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Für alle Protokolle diesen Proxy-Server verwenden">
-<!ENTITY  shareproxy.accesskey          "F">
-<!ENTITY  autologinproxy.label          "Keine Authentifizierungsanfrage bei gespeichertem Passwort">
-<!ENTITY  autologinproxy.accesskey      "z">
-<!ENTITY  autologinproxy.tooltip        "Beim Aktivieren dieser Einstellungen wird die Anmeldung an Proxies automatisch vorgenommen, falls deren Passwort gespeichert ist. Bei fehlgeschlagener Authentifizierung wird das Passwort vom Benutzer abgefragt.">
+<!ENTITY  noproxyExplain.label          "Example: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Use this proxy server for all protocols">
+<!ENTITY  shareproxy.accesskey          "s">
+<!ENTITY  autologinproxy.label          "Do not prompt for authentication if password is saved">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "This option silently authenticates you to proxies when you have saved credentials for them. You will be prompted if authentication fails.">

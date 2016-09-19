@@ -2,164 +2,164 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetriedaten">
+<!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
 
 <!ENTITY aboutTelemetry.changeDataChoices "
-  Ändern
+  Change
 ">
 
 <!ENTITY aboutTelemetry.uploadEnabled "
-  Daten des Firefox-Statusberichts werden <span>hochgeladen</span>.
+  FHR data upload is <span>enabled</span>.
 ">
 
 <!ENTITY aboutTelemetry.uploadDisabled "
-  Daten des Firefox-Statusberichts werden <span>nicht hochgeladen</span>.
+  FHR data upload is <span>disabled</span>.
 ">
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Ausführliche Telemetrie-Aufzeichnung ist <span>aktiviert</span>.
+  Extended Telemetry recording is <span>enabled</span>.
 ">
 
 <!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Ausführliche Telemetrie-Aufzeichnung ist <span>deaktiviert</span>.
+  Extended Telemetry recording is <span>disabled</span>.
 ">
 
 <!ENTITY aboutTelemetry.pingDataSource "
-Datensatz auswählen:
+Ping data source:
 ">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
-Datensatz in Aufzeichnung
+Current ping data
 ">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
-Archivierte Datensätze
+Archived ping data
 ">
 
 <!ENTITY aboutTelemetry.pingDataDisplay "
-Datensatz-Darstellung:
+Ping data display:
 ">
 
 <!ENTITY aboutTelemetry.structured "
-Strukturiert
+Structured
 ">
 
 <!ENTITY aboutTelemetry.raw "
-Reines JSON
+Raw JSON
 ">
 
 <!ENTITY aboutTelemetry.showSubsessionData "
-Untersitzungsdaten anzeigen
+Show subsession data
 ">
 
 <!ENTITY aboutTelemetry.choosePing "
-Datensatz auswählen:
+Choose ping:
 ">
 
 <!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Neuerer Datensatz
+&lt;&lt; Newer ping
 ">
 
 <!ENTITY aboutTelemetry.showOlderPing "
-Älterer Datensatz &gt;&gt;
+Older ping &gt;&gt;
 ">
 
 <!ENTITY aboutTelemetry.rawPingData "
-Unformatierte Daten des Datensatzes…
+Raw ping data…
 ">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
-Woche
+Week
 ">
 
 <!ENTITY aboutTelemetry.archivePingHeader "
-Datensatz
+Ping
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
-  Allgemeine Daten
+  General Data
 ">
 
 <!ENTITY aboutTelemetry.environmentDataSection "
-  Umgebungsdaten
+  Environment Data
 ">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
-  Telemetrie-Protokoll
+  Telemetry Log
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
-  Langsame SQL-Befehle
+  Slow SQL Statements
 ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser-Hänger
+  Browser Hangs
 ">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "
-  Thread-Hänger
+  Thread Hangs
 ">
 
 <!ENTITY aboutTelemetry.scalarsSection "
-  Skalare
+  Scalars
 ">
 
 <!ENTITY aboutTelemetry.histogramsSection "
-  Histogramme
+  Histograms
 ">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Schlüsselgebundene Histogramme
+  Keyed Histograms
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Einfache Messdaten
+  Simple Measurements
 ">
 
 <!ENTITY aboutTelemetry.addonDetailsSection "
-  Add-on-Details
+  Add-on Details
 ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "
-  Späte Schreibvorgänge
+  Late Writes
 ">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
-  Sitzungsinformationen
+  Session Information
 ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogramme aus Daten, die von Add-ons gesammelt wurden
+  Histograms Collected by Add-ons
 ">
 
 <!ENTITY aboutTelemetry.toggle "
-  Zum Umschalten der Ansicht anklicken
+  Click to toggle section
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
-  (Keine Daten gesammelt)
+  (No data collected)
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
-  HINWEIS: Das Debuggen langsamer SQL-Befehle ist aktiv. Es können vollständige SQL-Befehle weiter unten angezeigt werden, diese werden aber nicht durch die Telemetrie übertragen.
+  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "
-  Funktionsnamen für Aufruflisten von Hängern abfragen
+  Fetch function names for hang stacks
 ">
 
 <!ENTITY aboutTelemetry.hideSymbols "
-  Rohdaten von Hängern anzeigen
+  Show raw data from hangs
 ">
 
 <!ENTITY aboutTelemetry.filterText "
-  Filter (Zeichenketten oder /Reguläre Ausdrücke/):
+  Filter (strings or /regexp/)
 ">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Datenpaket
+  Payload
 ">
 
 <!ENTITY aboutTelemetry.rawPayload "
-  Unformatiertes Datenpaket
+  Raw Payload
 ">

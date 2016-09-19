@@ -2,39 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Allgemein">
+<!ENTITY  general.label                 "General">
 
-<!ENTITY  warnAddonInstall.label        "Warnen, wenn Websites versuchen, Add-ons zu installieren">
+<!ENTITY  warnAddonInstall.label        "Warn me when sites try to install add-ons">
 <!ENTITY  warnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-<!ENTITY  enableSafeBrowsing.label        "Gefährliche und betrügerische Inhalte blockieren">
-<!ENTITY  enableSafeBrowsing.accesskey    "b">
+<!ENTITY  enableSafeBrowsing.label        "Block dangerous and deceptive content">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
-<!ENTITY  blockDownloads.label            "Gefährliche Downloads blockieren">
+<!ENTITY  blockDownloads.label            "Block dangerous downloads">
 <!ENTITY  blockDownloads.accesskey        "D">
 
-<!ENTITY  blockUncommonUnwanted.label     "Vor unerwünschter und ungewöhnlicher Software warnen">
-<!ENTITY  blockUncommonUnwanted.accesskey "S">
+<!ENTITY  blockUncommonUnwanted.label     "Warn me about unwanted and uncommon software">
+<!ENTITY  blockUncommonUnwanted.accesskey "C">
 
-<!ENTITY  addonExceptions.label         "Ausnahmen…">
-<!ENTITY  addonExceptions.accesskey     "A">
+<!ENTITY  addonExceptions.label         "Exceptions…">
+<!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  logins.label                  "Zugangsdaten">
+<!ENTITY  logins.label                  "Logins">
 
-<!ENTITY  rememberLogins.label          "Zugangsdaten für Websites speichern">
-<!ENTITY  rememberLogins.accesskey      "Z">
-<!ENTITY  passwordExceptions.label      "Ausnahmen…">
-<!ENTITY  passwordExceptions.accesskey  "u">
+<!ENTITY  rememberLogins.label          "Remember logins for sites">
+<!ENTITY  rememberLogins.accesskey      "R">
+<!ENTITY  passwordExceptions.label      "Exceptions…">
+<!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label        "Master-Passwort verwenden">
-<!ENTITY  useMasterPassword.accesskey    "v">
-<!ENTITY  changeMasterPassword.label     "Master-Passwort ändern…">
+<!ENTITY  useMasterPassword.label        "Use a master password">
+<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  changeMasterPassword.label     "Change Master Password…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedLogins.label              "Gespeicherte Zugangsdaten…">
-<!ENTITY  savedLogins.accesskey          "G">
+<!ENTITY  savedLogins.label              "Saved Logins…">
+<!ENTITY  savedLogins.accesskey          "L">

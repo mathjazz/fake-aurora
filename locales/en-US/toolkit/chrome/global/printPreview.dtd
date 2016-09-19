@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY print.label          "Drucken…">
-<!ENTITY print.accesskey      "D">
-<!ENTITY pageSetup.label      "Seite einrichten…">
-<!ENTITY pageSetup.accesskey  "e">
-<!ENTITY page.label           "Seite:">
-<!ENTITY page.accesskey       "S">
-<!ENTITY of.label             "von">
-<!ENTITY scale.label          "Skalierung:">
-<!ENTITY scale.accesskey      "k">
-<!ENTITY portrait.label       "Hochformat">
-<!ENTITY portrait.accesskey   "H">
-<!ENTITY landscape.label      "Querformat">
-<!ENTITY landscape.accesskey  "Q">
-<!ENTITY close.label          "Schließen">
-<!ENTITY close.accesskey      "c">
+<!ENTITY print.label          "Print…">
+<!ENTITY print.accesskey      "P">
+<!ENTITY pageSetup.label      "Page Setup…">
+<!ENTITY pageSetup.accesskey  "u">
+<!ENTITY page.label           "Page:">
+<!ENTITY page.accesskey       "a">
+<!ENTITY of.label             "of">
+<!ENTITY scale.label          "Scale:">
+<!ENTITY scale.accesskey      "S">
+<!ENTITY portrait.label       "Portrait">
+<!ENTITY portrait.accesskey   "o">
+<!ENTITY landscape.label      "Landscape">
+<!ENTITY landscape.accesskey  "L">
+<!ENTITY close.label          "Close">
+<!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">
@@ -29,14 +29,14 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "Benutzerdefiniert…">
-<!ENTITY ShrinkToFit.label    "Auf Seitengröße verkleinern">
-<!ENTITY customPrompt.title   "Benutzerdefinierte Skalierung…">
-<!ENTITY simplifyPage.label   "Seite vereinfachen">
-<!ENTITY simplifyPage.enabled.tooltip  "Bessere Darstellung für einfacheres Lesen">
-<!ENTITY simplifyPage.disabled.tooltip "Diese Seite kann nicht automatisch vereinfacht werden.">
+<!ENTITY Custom.label         "Custom…">
+<!ENTITY ShrinkToFit.label    "Shrink To Fit">
+<!ENTITY customPrompt.title   "Custom Scale…">
+<!ENTITY simplifyPage.label   "Simplify Page">
+<!ENTITY simplifyPage.enabled.tooltip  "Change layout for easier reading">
+<!ENTITY simplifyPage.disabled.tooltip "This page cannot be automatically simplified">
 
-<!ENTITY homearrow.tooltip    "Erste Seite">
-<!ENTITY endarrow.tooltip     "Letzte Seite">
-<!ENTITY nextarrow.tooltip    "Nächste Seite">
-<!ENTITY previousarrow.tooltip "Vorherige Seite">
+<!ENTITY homearrow.tooltip    "First page">
+<!ENTITY endarrow.tooltip     "Last page">
+<!ENTITY nextarrow.tooltip    "Next page">
+<!ENTITY previousarrow.tooltip "Previous page">

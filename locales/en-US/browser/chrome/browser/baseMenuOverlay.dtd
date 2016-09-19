@@ -3,52 +3,52 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Im Dock ablegen">
-<!ENTITY bringAllToFront.label    "Alle nach vorne bringen">
+<!ENTITY minimizeWindow.label     "Minimize">
+<!ENTITY bringAllToFront.label    "Bring All to Front">
 <!ENTITY zoomWindow.label         "Zoom">
-<!ENTITY windowMenu.label         "Fenster">
+<!ENTITY windowMenu.label         "Window">
 
-<!ENTITY helpMenu.label           "Hilfe"> 
+<!ENTITY helpMenu.label           "Help"> 
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Hilfe"> 
+<!ENTITY helpMenuWin.label        "Help"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct2.label      "Über &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey  "e">
-<!ENTITY productHelp2.label       "&brandShorterName;-Hilfe">
+<!ENTITY aboutProduct2.label      "About &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShorterName; Help">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Tastaturkürzel">
-<!ENTITY helpKeyboardShortcuts.accesskey "T">
+<!ENTITY helpKeyboardShortcuts.label     "Keyboard Shortcuts">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Mit deaktivierten Add-ons neu starten…">
-<!ENTITY helpSafeMode.accesskey   "A">
-<!ENTITY helpSafeMode.stop.label       "Mit aktivierten Add-ons neu starten">
-<!ENTITY helpSafeMode.stop.accesskey   "A">
+<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Restart with Add-ons Enabled">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "&brandShorterName;-Statusbericht">
-<!ENTITY healthReport2.accesskey  "b">
+<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
+<!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Informationen zur Fehlerbehebung">
-<!ENTITY helpTroubleshootingInfo.accesskey  "z">
+<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "Feedback senden…">
-<!ENTITY helpFeedbackPage.accesskey  "s">
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour2.label            "Tour durch &brandShorterName;">
+<!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
 <!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "Einstellungen…">
+<!ENTITY preferencesCmdMac.label        "Preferences…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "Dienste">
+<!ENTITY servicesMenuMac.label          "Services">
 
-<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; ausblenden">
+<!ENTITY hideThisAppCmdMac2.label       "Hide &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Andere ausblenden">
+<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Alle einblenden">
+<!ENTITY showAllAppsCmdMac.label        "Show All">

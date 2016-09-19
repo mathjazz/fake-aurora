@@ -1,62 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "Seite einrichten">
+<!ENTITY printSetup.title    "Page Setup">
 
-<!ENTITY basic.tab           "Format &amp; Optionen">
+<!ENTITY basic.tab           "Format &amp; Options">
 
 <!ENTITY formatGroup.label   "Format">
 
-<!ENTITY orientation.label   "Ausrichtung:">
-<!ENTITY portrait.label      "Hochformat">
-<!ENTITY portrait.accesskey  "H">
-<!ENTITY landscape.label     "Querformat">
-<!ENTITY landscape.accesskey "Q">
+<!ENTITY orientation.label   "Orientation:">
+<!ENTITY portrait.label      "Portrait">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Landscape">
+<!ENTITY landscape.accesskey "L">
 
-<!ENTITY scale.label         "Skalierung:">
+<!ENTITY scale.label         "Scale:">
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Auf Seitengröße verkleinern">
-<!ENTITY shrinkToFit.accesskey "v">
+<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
+<!ENTITY shrinkToFit.accesskey "W">
 
-<!ENTITY optionsGroup.label  "Optionen">
+<!ENTITY optionsGroup.label  "Options">
 
-<!ENTITY printBG.label       "Hintergrund drucken (Farben und Bilder)">
-<!ENTITY printBG.accesskey   "g">
+<!ENTITY printBG.label       "Print Background (colors &amp; images)">
+<!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "Ränder &amp; Kopf-/Fußzeilen">
+<!ENTITY advanced.tab        "Margins &amp; Header/Footer">
 
-<!ENTITY marginGroup.label   "Ränder (#1)">
-<!ENTITY marginUnits.inches  "Zoll">
-<!ENTITY marginUnits.metric  "Millimeter">
-<!ENTITY marginTop.label     "Oben:">
-<!ENTITY marginTop.accesskey "O">
-<!ENTITY marginBottom.label  "Unten:">
-<!ENTITY marginBottom.accesskey "U">
-<!ENTITY marginLeft.label    "Links:">
+<!ENTITY marginGroup.label   "Margins (#1)">
+<!ENTITY marginUnits.inches  "inches">
+<!ENTITY marginUnits.metric  "millimeters">
+<!ENTITY marginTop.label     "Top:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "Bottom:">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "Left:">
 <!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginRight.label   "Rechts:">
+<!ENTITY marginRight.label   "Right:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "Kopf- &amp; Fußzeilen">
+<!ENTITY headerFooter.label  "Headers &amp; Footers">
 
-<!ENTITY hfLeft.label        "Links:">
-<!ENTITY hfCenter.label      "Mitte:">
-<!ENTITY hfRight.label       "Rechts:">
-<!ENTITY headerLeft.tip      "Kopfzeile links">
-<!ENTITY headerCenter.tip    "Kopfzeile mittig">
-<!ENTITY headerRight.tip     "Kopfzeile rechts">
-<!ENTITY footerLeft.tip      "Fußzeile links">
-<!ENTITY footerCenter.tip    "Fußzeile mittig">
-<!ENTITY footerRight.tip     "Fußzeile rechts">
+<!ENTITY hfLeft.label        "Left:">
+<!ENTITY hfCenter.label      "Center:">
+<!ENTITY hfRight.label       "Right:">
+<!ENTITY headerLeft.tip      "Left header">
+<!ENTITY headerCenter.tip    "Center header">
+<!ENTITY headerRight.tip     "Right header">
+<!ENTITY footerLeft.tip      "Left footer">
+<!ENTITY footerCenter.tip    "Center footer">
+<!ENTITY footerRight.tip     "Right footer">
 
-<!ENTITY hfTitle             "Titel">
+<!ENTITY hfTitle             "Title">
 <!ENTITY hfURL               "URL">
-<!ENTITY hfDateAndTime       "Datum/Uhrzeit">
-<!ENTITY hfPage              "Seite #">
-<!ENTITY hfPageAndTotal      "Seite # von #">
-<!ENTITY hfBlank             "--leer--">
-<!ENTITY hfCustom            "Benutzerdefiniert…">
+<!ENTITY hfDateAndTime       "Date/Time">
+<!ENTITY hfPage              "Page #">
+<!ENTITY hfPageAndTotal      "Page # of #">
+<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfCustom            "Custom…">
 
-<!ENTITY customPrompt.title  "Benutzerdefiniert…">
-<!ENTITY customPrompt.prompt "Geben Sie Ihren benutzerdefinierten Kopf-/Fußzeilentext an">
+<!ENTITY customPrompt.title  "Custom…">
+<!ENTITY customPrompt.prompt "Enter your custom header/footer text">

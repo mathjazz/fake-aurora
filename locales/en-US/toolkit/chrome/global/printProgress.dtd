@@ -1,12 +1,16 @@
-<!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "Drucken"> 
-<!ENTITY title    "Titel:"> 
-<!ENTITY progress "Fortschritt:">
-<!ENTITY preparing "Vorbereiten…">
-<!ENTITY printComplete "Drucken ist abgeschlossen.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialogCancel.label "Abbrechen"> 
-<!ENTITY dialogClose.label "Schließen">
+<!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
+<!ENTITY printWindow.title "Printing"> 
+<!ENTITY title    "Title:"> 
+<!ENTITY progress "Progress:">
+<!ENTITY preparing "Preparing…">
+<!ENTITY printComplete "Printing is Completed.">
+
+<!ENTITY dialogCancel.label "Cancel"> 
+<!ENTITY dialogClose.label "Close">
 
 <!-- LOCALIZATION NOTE (percentPrint):
 
@@ -15,4 +19,3 @@
 
     #1 will be replaced by the percentage of the file that has been saved -->
 <!ENTITY percentPrint "#1&#037;">
-

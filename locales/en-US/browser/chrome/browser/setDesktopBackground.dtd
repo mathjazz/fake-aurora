@@ -1,11 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY position.label             "Position:">
-<!ENTITY tile.label                 "Nebeneinander">
-<!ENTITY center.label               "Zentriert">
-<!ENTITY stretch.label              "Gestreckt">
-<!ENTITY fill.label                 "Gefüllt">
-<!ENTITY fit.label                  "Angepasst">
-<!ENTITY preview.label              "Vorschau">
-<!ENTITY color.label                "Farbe:">
-<!ENTITY setDesktopBackground.title "Hintergrundbild einrichten">
-<!ENTITY openDesktopPrefs.label     "Desktop-Einstellungen öffnen">
+<!ENTITY tile.label                 "Tile">
+<!ENTITY center.label               "Center">
+<!ENTITY stretch.label              "Stretch">
+<!ENTITY fill.label                 "Fill">
+<!ENTITY fit.label                  "Fit">
+<!ENTITY preview.label              "Preview">
+<!ENTITY color.label                "Color:">
+<!ENTITY setDesktopBackground.title "Set Desktop Background">
+<!ENTITY openDesktopPrefs.label     "Open Desktop Preferences">
 <!ENTITY closeWindow.key            "w">

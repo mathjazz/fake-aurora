@@ -7,24 +7,24 @@
   - in the Web Developer menu.
   - -->
 
-<!ENTITY title      "Verbinden">
-<!ENTITY header     "Mit anderem Gerät über Netzwerk verbinden">
+<!ENTITY title      "Connect">
+<!ENTITY header     "Connect to remote device">
 <!ENTITY host       "Host:">
 <!ENTITY port       "Port:">
-<!ENTITY connect    "Verbinden">
-<!ENTITY connecting "Verbindung wird hergestellt…">
-<!ENTITY availableAddons "Verfügbare externe Add-ons:">
-<!ENTITY availableTabs "Verfügbare externe Tabs:">
-<!ENTITY availableProcesses "Verfügbare externe Prozesse:">
-<!ENTITY connectionError "Fehler:">
-<!ENTITY errorTimeout "Fehler: Verbindungs-Zeitüberschreitung">
-<!ENTITY errorRefused "Fehler: Verbindungsanfrage abgelehnt">
-<!ENTITY errorUnexpected "Unerwarteter Fehler">
+<!ENTITY connect    "Connect">
+<!ENTITY connecting "Connecting…">
+<!ENTITY availableAddons "Available remote add-ons:">
+<!ENTITY availableTabs "Available remote tabs:">
+<!ENTITY availableProcesses "Available remote processes:">
+<!ENTITY connectionError "Error:">
+<!ENTITY errorTimeout "Error: connection timeout.">
+<!ENTITY errorRefused "Error: connection refused.">
+<!ENTITY errorUnexpected "Unexpected error.">
 
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Firefox-Entwicklerwerkzeuge können andere Geräte über das Netzwerk debuggen (zum Beispiel Firefox für Android und Firefox OS). Überprüfen Sie, dass Sie die Einstellung 'Externes Debugging' auf dem anderen Gerät aktiviert haben. Weitere Informationen dazu in der ">
-<!ENTITY remoteDocumentation "Dokumentation">
+<!ENTITY remoteHelp "Firefox Developer Tools can debug remote devices (Firefox for Android and Firefox OS, for example). Make sure that you have turned on the ‘Remote debugging’ option in the remote device. For more, see the ">
+<!ENTITY remoteDocumentation "documentation">
 <!ENTITY remoteHelpSuffix ".">
 

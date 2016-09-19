@@ -2,29 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "Sucheinstellungen wiederherstellen">
+<!ENTITY searchreset.tabtitle       "Restore Search Settings">
 
-<!ENTITY searchreset.pageTitle      "Ihre Sucheinstellungen wiederherstellen?">
+<!ENTITY searchreset.pageTitle      "Restore your search settings?">
 
-<!ENTITY searchreset.pageInfo1      "Ihre Sucheinstellungen könnten veraltet sein. &brandShortName; kann Ihnen bei der Wiederherstellung der Standardsucheinstellungen helfen.">
+<!ENTITY searchreset.pageInfo1      "Your search settings might be out-of-date. &brandShortName; can help you restore the default search settings.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
-<!ENTITY searchreset.selector.label "Dies wird Ihre Standardsuchmaschine ändern zu">
+<!ENTITY searchreset.selector.label "This will set your default search engine to">
 
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
-<!ENTITY searchreset.beforelink.pageInfo2 "Diese Einstellungen könnten jederzeit auf der entsprechenden ">
-<!ENTITY searchreset.afterlink.pageInfo2  " geändert werden.">
+<!ENTITY searchreset.beforelink.pageInfo2 "You can change these settings at any time from the ">
+<!ENTITY searchreset.afterlink.pageInfo2  ".">
 
-<!ENTITY searchreset.link.pageInfo2       "Einstellungsseite">
+<!ENTITY searchreset.link.pageInfo2       "Settings page">
 
-<!ENTITY searchreset.noChangeButton        "Nicht verändern">
-<!ENTITY searchreset.noChangeButton.access "N">
+<!ENTITY searchreset.noChangeButton        "Don’t Change">
+<!ENTITY searchreset.noChangeButton.access "D">
 
-<!ENTITY searchreset.changeEngineButton        "Suchmaschine ändern">
-<!ENTITY searchreset.changeEngineButton.access "d">
+<!ENTITY searchreset.changeEngineButton        "Change Search Engine">
+<!ENTITY searchreset.changeEngineButton.access "C">

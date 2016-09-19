@@ -2,31 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY defaultSearchEngine.label             "Standardsuchmaschine">
+<!ENTITY defaultSearchEngine.label             "Default Search Engine">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Wählen Sie Ihre Standardsuchmaschine. &brandShortName; verwendet diese für Suchen über die Adressleiste, die Suchleiste und Startseiten.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Choose your default search engine. &brandShortName; uses it in the location bar, search bar, and start page.">
 
-<!ENTITY provideSearchSuggestions.label        "Suchvorschläge anzeigen">
-<!ENTITY provideSearchSuggestions.accesskey    "S">
+<!ENTITY provideSearchSuggestions.label        "Provide search suggestions">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Suchvorschläge in Adressleiste anzeigen">
-<!ENTITY showURLBarSuggestions.accesskey       "v">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "Suchvorschläge werden nicht in der Adressleiste angezeigt, weil &brandShortName; angewiesen wurde, keine Chronik zu speichern.">
+<!ENTITY showURLBarSuggestions.label           "Show search suggestions in location bar results">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Search suggestions will not be shown in location bar results because you have configured &brandShortName; to never remember history.">
 
-<!ENTITY redirectWindowsSearch.label "Diese Suchmaschine für die Suche mit Windows verwenden">
-<!ENTITY redirectWindowsSearch.accesskey "v">
+<!ENTITY redirectWindowsSearch.label "Use this search engine for searches from Windows">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
-<!ENTITY oneClickSearchEngines.label           "Ein-Klick-Suchmaschinen">
+<!ENTITY oneClickSearchEngines.label           "One-click search engines">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Die Suchleiste ermöglicht das direkte Suchen mit einer anderen Suchmaschine. Die anzuzeigenden Suchmaschinen können hier ausgewählt werden.">
+<!ENTITY chooseWhichOneToDisplay.label         "The search bar lets you search alternate engines directly. Choose which ones to display.">
 
-<!ENTITY engineNameColumn.label                "Suchmaschine">
-<!ENTITY engineKeywordColumn.label             "Schlüsselwort">
+<!ENTITY engineNameColumn.label                "Search Engine">
+<!ENTITY engineKeywordColumn.label             "Keyword">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Standardsuchmaschinen wiederherstellen">
-<!ENTITY restoreDefaultSearchEngines.accesskey "w">
+<!ENTITY restoreDefaultSearchEngines.label     "Restore Default Search Engines">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
-<!ENTITY removeEngine.label                    "Entfernen">
-<!ENTITY removeEngine.accesskey                "E">
+<!ENTITY removeEngine.label                    "Remove">
+<!ENTITY removeEngine.accesskey                "r">
 
-<!ENTITY addMoreSearchEngines.label            "Weitere Suchmaschinen hinzufügen…">
+<!ENTITY addMoreSearchEngines.label            "Add more search engines…">

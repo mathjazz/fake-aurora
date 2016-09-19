@@ -1,13 +1,17 @@
-<!ENTITY blocklist.title             "Add-ons könnten Probleme verursachen">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY blocklist.title             "Add-ons may be causing problems">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; hat festgestellt, dass folgende Add-ons dafür bekannt sind, Sicherheits- oder Stabilitätsprobleme zu verursachen:">
-<!ENTITY blocklist.softblocked       "Zu Ihrer eigenen Sicherheit wird dringend empfohlen, dass Sie diese Add-ons deaktivieren und &brandShortName;  neu starten">
-<!ENTITY blocklist.hardblocked       "Diese Add-ons bergen ein hohes Sicherheits- oder Stabilitätsrisiko und wurden blockiert, aber ein Neustart von &brandShortName; ist notwendig, um sie vollständig zu deaktivieren.">
-<!ENTITY blocklist.softandhard       "Add-ons, die ein hohes Sicherheits- oder Stabilitätsrisiko bergen, wurden blockiert. Die anderen Add-ons haben ein geringeres Risiko, aber es wird dringend empfohlen, dass Sie sie deaktivieren und &brandShortName; neu starten.">
-<!ENTITY blocklist.moreinfo          "Weitere Informationen">
+<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
+<!ENTITY blocklist.softblocked       "For your protection, it is highly recommended that you restart with these add-ons disabled.">
+<!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
+<!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
+<!ENTITY blocklist.moreinfo          "More information">
 
-<!ENTITY blocklist.accept.label      "&brandShortName; neu starten">
-<!ENTITY blocklist.accept.accesskey  "n">
+<!ENTITY blocklist.accept.label      "Restart &brandShortName;">
+<!ENTITY blocklist.accept.accesskey  "R">
 
-<!ENTITY blocklist.blocked.label     "Blockiert">
-<!ENTITY blocklist.checkbox.label    "Deaktiviert">
+<!ENTITY blocklist.blocked.label     "Blocked">
+<!ENTITY blocklist.checkbox.label    "Disable">
