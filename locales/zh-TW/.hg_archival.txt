@@ -1,0 +1,7 @@
+repo: 2642395f69717903accfde1d3408a51a45291eb2
+node: 250dcc78c297bd24bd2245a60138ae47ac20ce22
+branch: default
+latesttag: FENNEC_31_0b10_BUILD2
+latesttag: FENNEC_31_0b10_RELEASE
+latesttagdistance: 728
+changessincelatesttag: 794
